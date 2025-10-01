@@ -1,2 +1,7 @@
-# bitirme-projesi-sql
-Bitirme Projesi - SQL veritabanı tasarımı, veri ekleme ve raporlama sorguları
+# Bitirme Projesi - SQL
+
+Bu proje kapsamında şunlar teslim edilmiştir:
+- `er-diagram.png` → ER Diyagramı
+- `bitirme_projesi.sql` → SQL Script Dosyası (oluşturma, veri ekleme, raporlama sorguları)
+- `RAPOR.md` → Dokümantasyon
+
